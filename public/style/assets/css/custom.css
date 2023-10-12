@@ -1,0 +1,40 @@
+.search-input {
+    width: 300px; 
+    margin-bottom: 10px;
+    margin-top: 2%;
+    
+}
+.search-input .form-control {
+    border-color: #717ff5;/* Ganti warna sesuai yang diinginkan, misalnya "red" */
+}
+/* Menambahkan warna latar belakang dan warna teks pada tabel */
+
+
+.table thead th {
+    background-color: #717ff5;
+    color: #fff;
+    border-color: #717ff5;
+}
+/* Mengubah warna tombol pencarian */
+.search-btn {
+    background-color: #717ff5;
+    border-color: #717ff5;
+}
+
+.search-btn:hover {
+    background-color: #5c6ac4;
+    border-color: #5c6ac4;
+}
+
+.tambah-btn {
+    background-color: #717ff5;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+} 
+
+.tambah-btn:hover {
+    background-color: #5c6ac4;
+    border-color: #5c6ac4;
+}
+
